@@ -1,0 +1,6 @@
+{
+  "name": "Fluent Scribe AI",
+  "description": "Voice translator and Microsoft Word-style A4 document maker supporting Indian, Asian, and world languages with precise pagination and PDF export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
